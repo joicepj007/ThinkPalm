@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "350619756641",
+    "firebase_url": "https://codingtesttp.firebaseio.com",
+    "project_id": "codingtesttp",
+    "storage_bucket": "codingtesttp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350619756641:android:ae59f0661d56cce1df2220",
+        "android_client_info": {
+          "package_name": "com.android.codingtesttp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350619756641-0gk823be744v8sm4dej7gqc17sfmr0qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2sK1n4ZDYBENxV-2jLaa9m0UZrTAfYPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350619756641-0gk823be744v8sm4dej7gqc17sfmr0qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

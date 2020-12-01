@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CodingTestTP</string>
+    <string name="str_title">Romantic Comedy</string>
+    <string name="str_search">Search</string>
+    <string name="str_search_list">Please enter alteast 3 characters to search</string>
+</resources>

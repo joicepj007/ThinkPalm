@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="text_margin_top">4dp</dimen>
+    <dimen name="image_height_width">150dp</dimen>
+    <dimen name="layout_padding">6dp</dimen>
+    <dimen name="constraint_margin_bottom">10dp</dimen>
+    <dimen name="list_text_size">16sp</dimen>
+</resources>
